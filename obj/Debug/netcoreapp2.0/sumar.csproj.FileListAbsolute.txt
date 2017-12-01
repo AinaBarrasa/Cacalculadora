@@ -1,0 +1,10 @@
+C:\Users\Aina\sumar\bin\Debug\netcoreapp2.0\sumar.deps.json
+C:\Users\Aina\sumar\bin\Debug\netcoreapp2.0\sumar.runtimeconfig.json
+C:\Users\Aina\sumar\bin\Debug\netcoreapp2.0\sumar.runtimeconfig.dev.json
+C:\Users\Aina\sumar\bin\Debug\netcoreapp2.0\sumar.dll
+C:\Users\Aina\sumar\bin\Debug\netcoreapp2.0\sumar.pdb
+C:\Users\Aina\sumar\obj\Debug\netcoreapp2.0\sumar.csproj.CoreCompileInputs.cache
+C:\Users\Aina\sumar\obj\Debug\netcoreapp2.0\sumar.AssemblyInfoInputs.cache
+C:\Users\Aina\sumar\obj\Debug\netcoreapp2.0\sumar.AssemblyInfo.cs
+C:\Users\Aina\sumar\obj\Debug\netcoreapp2.0\sumar.dll
+C:\Users\Aina\sumar\obj\Debug\netcoreapp2.0\sumar.pdb
